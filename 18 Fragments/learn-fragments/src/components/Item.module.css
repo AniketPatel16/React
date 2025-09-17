@@ -1,0 +1,18 @@
+.kg-item{
+  background-color: khaki;
+}
+
+.kg-span{
+  font-weight:500;
+  color: blue;
+  font-size: 20px;
+}
+
+.button{
+  align-items: end;
+  border: none;
+  padding: 10px 15px;
+  border-radius: 5px;
+  cursor: pointer;
+  float: right
+}

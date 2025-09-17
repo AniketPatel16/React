@@ -1,0 +1,14 @@
+.buttonsContainer{
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 5px;
+  margin-top: 10px;
+}
+
+.button{
+  width: 45px;
+  height: 45px;
+  margin: 3px;
+}
